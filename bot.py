@@ -7,13 +7,13 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 driver = webdriver.Chrome()
-driver.get('https://web.whatsapp.com/')
+driver.get('https://wa.me/593969633298?text=Hola!!%20Quiero%20informaci%C3%B3n%20%F0%9F%98%8E%F0%9F%A4%9F%F0%9F%8F%BB/')
 
 
 input("Escanea el código QR y presiona Enter una vez autenticado en WhatsApp...")
 
 
-contacto ="Mi Num"  
+contacto ="0969633298"  
 
 mensaje = "Hola desde el Bot    "  # Mensaje a enviar
 
